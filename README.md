@@ -32,9 +32,6 @@ The  [Jupyter notebook](https://github.com/AlexanderKim/CarND-Traffic-Sign-Class
 
 #### 1. Exporation of the dataset
 
-I used the pandas library to calculate summary statistics of the traffic
-signs data set:
-
 * The size of training set is 34799
 * The size of the validation set is 4410
 * The size of test set is 12630
